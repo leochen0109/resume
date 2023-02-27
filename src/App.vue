@@ -1,11 +1,14 @@
 <template>
-  <h1>Resume</h1>
-  <el-icon>
-    <i-ep-plus></i-ep-plus>
-  </el-icon>
+  <h1>Niehao Chen<br>
+    4062 La Jolla Village Dr, La Jolla,CA,92037 | (858)214-0609<br>
+    www.linkedin.com/in/niehao-chen
+  </h1>
+  <div class="demo-image__lazy">
+    <el-image src="src/pictures/resume pic.png" />
+  </div>
 </template>
-<script setup>
 
+<script setup>
 </script>
 <script>
 export default {
@@ -13,6 +16,5 @@ export default {
 }
 </script>
 
-<style scoped lang="less">
-
+<style scoped>
 </style>

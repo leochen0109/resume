@@ -4,7 +4,7 @@
     www.linkedin.com/in/niehao-chen
   </div>
   <div class="image">
-    <el-image src="src/pictures/resume pic.png" />
+    <el-image src="/blob/main/src/pictures/resume pic.png" />
   </div>
 </template>
 
